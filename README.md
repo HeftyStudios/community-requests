@@ -1,5 +1,5 @@
 # community-requests
-An public repository for the purpose of receiving feedback and issue management.
+A public repository for the purpose of community provided feedback and issue management.
 
 ## Contribution Guidelines
 Categorise issues using the 'labels' and 'type'. 
